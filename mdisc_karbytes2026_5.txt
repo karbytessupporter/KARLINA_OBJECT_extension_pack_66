@@ -482,7 +482,7 @@ M_DISC 3 of 3 data collection size: approximately 4 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_5: // folder contains exactly 18 files (approximately 3244.62 megabytes total).
+karbytes2026_5: // folder contains exactly 18 files (approximately 3267.99 megabytes total).
 
     - zip_file_0: karbytes_23AndMe_Ancestry_Data-main.zip // 6.8 18235.95 megabytes
 
@@ -508,7 +508,7 @@ karbytes2026_5: // folder contains exactly 18 files (approximately 3244.62 megab
 
     - zip_file_11: KARLINA_OBJECT_extension_pack_65-main.zip // 590.1 megabytes
 
-    - zip_file_12: KARLINA_OBJECT_extension_pack_66-main_01june2026.zip // 18.6 megabytes
+    - zip_file_12: KARLINA_OBJECT_extension_pack_66-main_01june2026.zip // 43.1 megabytes
 
     - zip_file_13: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.9 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
