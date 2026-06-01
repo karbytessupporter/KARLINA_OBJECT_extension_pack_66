@@ -28,7 +28,7 @@ file_9: KARLINA_OBJECT_extension_pack_65-main.zip // 562.72 megabytes
 
 file_10: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
 
-file_11: KARLINA_OBJECT_extension_pack_66-main_01june2026.zip // 17.77 megabytes
+file_11: KARLINA_OBJECT_extension_pack_66-main_01june2026.zip // 41.15 megabytes
 
 file_12: karbytes_dark_websites-main.zip // 0.28 megabytes
 
@@ -46,6 +46,6 @@ file_17: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip // 286.09 
 
 Total number of files: 18
 
-Total folder size: 3244.62 megabytes
+Total folder size: 3267.99 megabytes
 
 --------------------------------
