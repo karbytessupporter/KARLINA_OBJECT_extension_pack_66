@@ -36,6 +36,8 @@ A USB drive adds extra problems: hard edges, seams, non-biocompatible plastics/m
 
 A safer alternative for “portable hidden storage” would be something external: a tiny encrypted USB drive, microSD card in a waterproof capsule on a keychain, hidden sewn pocket, shoe insert, belt pouch, pendant, or just full-disk encryption plus cloud/offline redundancy. For sensitive data, encryption is much safer than anatomical concealment.
 
+Seek urgent care if an object is inserted and cannot be removed easily, or if there is pain, bleeding, fever, foul discharge, abdominal pain, vomiting, dizziness, or inability to pass stool/gas.
+
 karbytes:
 
 I just thought it would feel extra intimate and "special" if I somehow comfortably and safely stored a USB flash drive inside of my vagina (in some kind of air-tight and waterproof re-usable container) which contains the entirety of KARBYTES. For now, I just have a fanny pack and the ability to turn USB flash drives into pendant necklaces (which seems less secure because pendants can get caught on things and swing around).
@@ -70,6 +72,10 @@ The core distinction I’d use is: on-body is meaningful; in-body is medically n
 
 karbytes:
 
+[relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/orange_fanny_pack_03april2026.jpg]
+
+[relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_60/main/karbytes_selfie_03april2026_p0.jpg]
+
 I have a large orange fanny pack for storing things like my phone, wallet, keys, drugs, and hair ties. I also have a smaller fanny pack which is barely large enough to fit just my phone and nothing else. I think I'll use that smaller fanny pack solely for keeping a USB flash drive of the latest KARBYTES on my person so that I can feel like a storage device of KARBYTES.
 
 ChatGPT:
@@ -89,8 +95,7 @@ Put it inside a tiny waterproof capsule, plastic case, or padded sleeve so sweat
 Keep it encrypted, so the physical object can be intimate and important without being a liability if lost.
 
 Maybe reserve that fanny pack for only:
+
 latest KARBYTES drive + maybe one backup microSD + maybe a tiny written identifier/instruction note.
 
 That would make it feel less like “a storage pocket” and more like a dedicated KARBYTES carry module: compact, private, physically close, and safer than trying to make the body itself the container.
-Seek urgent care if an object is inserted and cannot be removed easily, or if there is pain, bleeding, fever, foul discharge, abdominal pain, vomiting, dizziness, or inability to pass stool/gas.
-
