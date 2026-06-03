@@ -1,0 +1,63 @@
+/**
+ * file: journal_karbytes_03june2026_p0.txt
+ * type: plain-text
+ * date: 03_JUNE_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+### In the following pseudocode...
+### [anonymous_github_username] -> informationcrystals
+### [public_files_repository] -> projects
+### [N] -> nonnegative integer number of KARLINA_OBJECT_extension_pack
+
+For each Uniform Resource Locator (URL) listed in this file:
+    Change the following string within that URL from:
+        [anonymous_github_username]/[public_files_repository]
+    To:
+        karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]
+    If the URL ends with any one of the following strings:
+        temp.txt 
+        sub-index_page_101.html
+    Then:
+        assume that file does not exist (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+    Otherwise:
+        assume that file exists (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+
+### ...End of pseudocode
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/temp.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_101.html
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/KARBYTES_Curated_Music_Randomizer_contents.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_03june2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_03june2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/horrors_of_a_withered_dimension_bloodstained_ground_2022.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_03june2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_social_media_posts.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_03june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_66.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/reddit_karbytes_solipsism_post_comment_thread_03june2026_p0.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/the_conjuring_megadeth_1986.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_18june2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_19june2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_curated_music_randomizer.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_social_media_posts_koep66.html
