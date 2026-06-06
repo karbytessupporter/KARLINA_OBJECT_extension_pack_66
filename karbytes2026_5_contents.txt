@@ -10,35 +10,35 @@ file_0: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // 68.93 m
 
 file_1: KARLINA_OBJECT_extension_pack_63-main.zip // 608.96 megabytes
 
-file_2: KARBYTES_Curated_Music_Randomizer-main.zip // 752.94 megabytes
+file_2: KARBYTES_Curated_Music_Randomizer-main.zip // 769.38 megabytes
 
 file_3: karbytes_basement_54-main.zip // 29.66 megabytes
 
-file_4: KARLINA_OBJECT_extension_pack_66-main_04june2026.zip // 184.78 megabytes
+file_4: KARLINA_OBJECT_APPS-main.zip // 22.84 megabytes
 
-file_5: KARLINA_OBJECT_APPS-main.zip // 22.84 megabytes
+file_5: KARBYTES_BLOG_APPS-main_29march2026.zip // 614.07 megabytes
 
-file_6: KARBYTES_BLOG_APPS-main_29march2026.zip // 614.07 megabytes
+file_6: KARLINA_OBJECT-main.zip // 206.49 megabytes
 
-file_7: KARBYTES_FOR_LIFE_BLOG-main_04june2026.zip // 4.56 megabytes
+file_7: karbytes_23AndMe_Ancestry_Data-main.zip // 6.45 megabytes
 
-file_8: KARLINA_OBJECT-main.zip // 206.49 megabytes
+file_8: KARLINA_OBJECT_extension_pack_65-main.zip // 562.72 megabytes
 
-file_9: karbytes_23AndMe_Ancestry_Data-main.zip // 6.45 megabytes
+file_9: karbytes_wayback_machine_saves_precision_batches_extension_1-main_06june2026.zip // 0.14 megabytes
 
-file_10: KARLINA_OBJECT_extension_pack_65-main.zip // 562.72 megabytes
+file_10: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
 
-file_11: karbytes_wayback_machine_saves_precision_batches-main.zip // 0.79 megabytes
+file_11: KARLINA_OBJECT_extension_pack_66-main_06june2026.zip // 249.61 megabytes
 
-file_12: karbytes_wayback_machine_saves_precision_batches_extension_1-main_04june2026.zip // 0.14 megabytes
+file_12: karbytes_dark_websites-main.zip // 0.28 megabytes
 
-file_13: karbytes_dark_websites-main.zip // 0.28 megabytes
+file_13: karbytes_test_github_hosted_website-main.zip // 22.51 megabytes
 
-file_14: karbytes_test_github_hosted_website-main.zip // 22.51 megabytes
+file_14: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 0.15 megabytes
 
-file_15: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 0.15 megabytes
+file_15: karbytes_basement_53-main.zip // 140.31 megabytes
 
-file_16: karbytes_basement_53-main.zip // 140.31 megabytes
+file_16: KARBYTES_FOR_LIFE_BLOG-main_06june2026.zip // 4.56 megabytes
 
 file_17: KARLINA_OBJECT_extension_pack_64-main.zip // 651.89 megabytes
 
@@ -48,6 +48,6 @@ file_18: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_30march2026.zip // 286.09 
 
 Total number of files: 19
 
-Total folder size: 4164.57 megabytes
+Total folder size: 4245.84 megabytes
 
 --------------------------------
