@@ -28,7 +28,7 @@ file_9: karbytes_wayback_machine_saves_precision_batches_extension_1-main_06june
 
 file_10: karbytes_wayback_machine_saves_precision_batches-main.zip // SHA-256: d5ca71b6097bcb52a37db14074c1c8d1b3ca3941905741ba775c3c0ccaf43a16
 
-file_11: KARLINA_OBJECT_extension_pack_66-main_06june2026.zip // SHA-256: 6fa55930b2a7bf5207c72d5e3d0fa2a68f84a5178f6392ebdb5b30156413ebfc
+file_11: KARLINA_OBJECT_extension_pack_66-main_06june2026.zip // SHA-256: 181aa267ac9b49bcbc62dc1a929b70380ca090d93ffb9f19b0f462a33a5e20b3
 
 file_12: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0f4f44b7cef4f4614ae33e676b498002d2c90
 
