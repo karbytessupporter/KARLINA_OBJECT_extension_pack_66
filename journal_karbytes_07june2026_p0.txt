@@ -1,0 +1,113 @@
+/**
+ * file: journal_karbytes_07june2026_p0.txt
+ * type: plain-text
+ * date: 08_JUNE_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+### In the following pseudocode...
+### [anonymous_github_username] -> informationcrystals
+### [public_files_repository] -> projects
+### [N] -> nonnegative integer number of KARLINA_OBJECT_extension_pack
+
+For each Uniform Resource Locator (URL) listed in this file:
+    Change the following string within that URL from:
+        [anonymous_github_username]/[public_files_repository]
+    To:
+        karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]
+    If the URL ends with any one of the following strings:
+        temp.txt 
+        index.html
+        sub-index_page_98.html
+        sub-index_page_99.html
+        sub-index_page_101.html
+        sub-index_page_103.html
+    Then:
+        assume that file does not exist (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+    Otherwise:
+        assume that file exists (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+
+### ...End of pseudocode
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/temp.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/index.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_98.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_99.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_101.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_103.html
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/KARBYTES_Curated_Music_Randomizer_contents.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/age_of_darkness_critical_fear_2026.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/all_shall_fall_immortal_2009.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/bluesky_karbytes_profile_screenshot_07june2026.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_generated_image_first_official_long_hiatus_of_karbytes_summer_2026_08june2026.png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_07june2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/invert_image_rgb.py
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_07june2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_07june2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_curated_music_randomizer.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_is_embedded_in_the_creation_and_remembrance_of_KARBYTES_07june2026.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_social_media_posts.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/morning_bird_sounds_08june2026.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_07june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_07june2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_07june2026_p2.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_07june2026_p3.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_08june2026_p0.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_08june2026_p1.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_08june2026_p2.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_08june2026_p3.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/preparing_to_make_mdisc_set_on_31may2026.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_66.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_67.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/rocky_ridge_trail_moraga_california_01jun2026_p4_[inverted_colors].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/they_live_on_fear_body_bag_1992.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_chatgpt_karbytes_21june2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_journal_karbytes_07june2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_curated_music_randomizer.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_social_media_posts_koep66.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_preparing_to_make_mdisc_set_on_31may2026.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/war_against_all_immortal_2023.mp4
